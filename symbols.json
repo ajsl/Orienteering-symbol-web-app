@@ -1,0 +1,23 @@
+{
+    "Northern": {
+        "image": "./assets/norther.png",
+        "description": "The more northern of two similar features, or the northern-most of several similar features."
+    },
+    "South-Eastern": {
+        "image": "./assets/south-eastern.png",
+        "description": "The more south eastern of two similar features, or the south-eastern-most of several similar features."
+    },
+    "Upper": {
+        "image": "./assets/upper.png",
+        "description": "Where the control feature is directly above a similar feature."
+    },
+    "Lower": {
+        "image": "./assets/lower.png",
+        "description": "Where the control feature is directly below a similar feature."
+    },
+    "Middle": {
+        "image": "./assets/middle.png",
+        "description": "Where the control feature is the middle one of a number of similar features."
+    }
+
+}
